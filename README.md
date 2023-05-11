@@ -1,5 +1,5 @@
 # What is this?
-This is a collection of javascript tutorials.
+This is a collection of articles on being a developer.
 
 # How does it work?
 I'll post new lessons as I think of them. Each lesson will be numbered and labeled. Here's the key to their numbering.
@@ -9,4 +9,6 @@ Next is an id number for that level.
 Finally, the label for the lesson.
 
 # Where should I start?
-Some folders will only contain one file. Others will contain multiple files. I'll use another `README.md` like this. So, start with `1-1.structuring-websites`.
+Probably start with the 1's and move up.
+
+Each lesson will contain a `README.md` file. Start there.
